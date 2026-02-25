@@ -1,0 +1,5 @@
+{
+  "name": "MOB Bio Link Portal",
+  "description": "Secure bio link portal for Head Office and Pabrik Kelapa Sawit links with password protection.",
+  "requestFramePermissions": []
+}
